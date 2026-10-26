@@ -2,17 +2,17 @@
 // All contact numbers, addresses, brand names, and service areas can be customized here in one place.
 
 export const BUSINESS_CONFIG = {
-  brandName: "VERTEX UPVC",
+  brandName: "Onex UPVC Solutions",
   brandSubtitle: "Fabrication & Architectural Installation",
   tagline: "Precision-Crafted UPVC Windows & Doors",
   description: "Specialized in custom UPVC window and door fabrication, engineered framing, and professional architectural installation for residential and commercial spaces.",
   
   // Contact details (Configurable placeholders as requested, easy to edit)
-  phone: "+91 98765 43210",
-  whatsappNumber: "919876543210", // Plain number format with country code for wa.me links
-  email: "contact@vertexupvc.com",
-  workshopAddress: "Industrial Estate, Fabrication Phase II",
-  city: "Bangalore, Karnataka",
+  phone: "+91 97391 19605",
+  whatsappNumber: "919739119605", // Plain number format with country code for wa.me links
+  email: "contact@onexupvc.com",
+  workshopAddress: "APMC, Near Sub Register Office",
+  city: "Laxmeshwar, Karnataka",
   workingHours: "Monday – Saturday: 9:00 AM – 7:30 PM",
   serviceAreas: [
     "Residential Apartments & Villas",

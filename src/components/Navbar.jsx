@@ -52,7 +52,7 @@ export default function Navbar({ onOpenQuote }) {
           {/* Brand Logo & Title */}
           <a href="#home" className="flex items-center gap-2 sm:gap-3 group min-w-0 shrink">
             <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-md bg-stone-900 flex items-center justify-center text-white font-bold tracking-tight shadow-sm group-hover:bg-sky-950 transition-colors shrink-0">
-              <span className="font-mono text-base sm:text-lg text-sky-400">V</span>
+              <span className="font-mono text-base sm:text-lg text-sky-400">O</span>
             </div>
             <div className="flex flex-col min-w-0">
               <span className="text-base sm:text-lg font-extrabold tracking-tight text-stone-900 group-hover:text-sky-950 transition-colors truncate">

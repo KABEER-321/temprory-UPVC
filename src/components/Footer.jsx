@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="sm:col-span-2 lg:col-span-4 space-y-3.5 sm:space-y-4 min-w-0">
             <div className="flex items-center gap-2.5 sm:gap-3">
               <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-md bg-stone-800 border border-stone-700 flex items-center justify-center text-white font-bold tracking-tight shrink-0">
-                <span className="font-mono text-base sm:text-lg text-sky-400">V</span>
+                <span className="font-mono text-base sm:text-lg text-sky-400">O</span>
               </div>
               <div className="flex flex-col min-w-0">
                 <span className="text-base sm:text-lg font-extrabold tracking-tight text-white truncate">
